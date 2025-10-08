@@ -180,3 +180,4 @@ CREATE TABLE "thumbnails" (
 ---
 
 **Anterior**: [← Arquitetura DataSources](02-arquitetura-datasources.md) | **Próximo**: [Aspectos Valiosos →](04-aspectos-valiosos.md)
+

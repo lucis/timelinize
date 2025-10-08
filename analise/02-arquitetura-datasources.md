@@ -147,3 +147,4 @@ func (Importer) Recognize(ctx context.Context, dirEntry DirEntry, params Recogni
 ---
 
 **Anterior**: [← Visão Geral](01-visao-geral.md) | **Próximo**: [Modelo de Dados →](03-modelo-dados.md)
+
